@@ -10,14 +10,14 @@ Passionate about solving complex challenges through clean, high-performance code
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-bola%C3%B1os/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ivanbolanos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ivanbolanos&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ivan-bolanos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ivan-bolanos&theme=radical&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ivanbolanos&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ivan-bolanos&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ivanbolanos&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ivan-bolanos&icon=0&color=0)](https://visitcount.itsvg.in)

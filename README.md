@@ -73,10 +73,3 @@ Senior Full Stack Developer with **6+ years** of experience designing and delive
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-bola%C3%B1os/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivanbolanos0@gmail.com)
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats-rho.vercel.app/api?username=Ivan-bolanos&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ivan-bolanos&icon=0&color=0)](https://visitcount.itsvg.in)

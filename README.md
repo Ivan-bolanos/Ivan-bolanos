@@ -2,7 +2,7 @@
 
 Senior Full Stack Developer with **6+ years** of experience designing and delivering scalable web and mobile applications. Specialized in **React (Native & Web)**, **TypeScript**, and **AWS cloud services** (Lambda, API Gateway, DynamoDB, Cognito). Skilled in microservices, serverless architectures, and infrastructure as code (**Terraform**), with strong expertise in CI/CD automation, DevOps practices, and Agile/Scrum (SAFe) methodologies.
 
-📍 Madrid, Spain &nbsp;|&nbsp; ✉️ ivanbolanos0@gmail.com
+📍 Remote (CET) &nbsp;|&nbsp; ✉️ ivanbolanos0@gmail.com
 
 ---
 
@@ -61,7 +61,11 @@ Senior Full Stack Developer with **6+ years** of experience designing and delive
 
 ### 🎓 Education
 
-IMF Business School, Madrid — Master of Education, Cybersecurity (2021) · Higher Technician, Web Application Development (2020) · Higher Technician, Cross-Platform Application Development (2019)
+**Master of Education, Cybersecurity** — IMF Business School, Madrid `2021`
+
+**Higher Technician, Web Application Development** — IMF Business School, Madrid `2020`
+
+**Higher Technician, Cross-Platform Application Development** — IMF Business School, Madrid `2019`
 
 ---
 
@@ -72,8 +76,7 @@ IMF Business School, Madrid — Master of Education, Cybersecurity (2021) · Hig
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ivan-bolanos&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ivan-bolanos&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Ivan-bolanos&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ivan-bolanos&icon=0&color=0)](https://visitcount.itsvg.in)
